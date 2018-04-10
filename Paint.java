@@ -8,6 +8,9 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.Scanner;
 
+/*
+@author:Vishal Singh
+*/
 public class Paint extends JFrame implements ActionListener
 {
 	int fileToOpen;
